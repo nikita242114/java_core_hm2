@@ -6,7 +6,7 @@ package tasks;
 import java.util.Random;
 
 
-public class Task1 {
+public class task1 {
     public static int[] countEvens(int[] arrayOne) {
         Random random = new Random();
         int sum = 0;

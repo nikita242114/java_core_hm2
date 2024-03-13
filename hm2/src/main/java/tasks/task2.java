@@ -6,7 +6,7 @@ package tasks;
 import java.util.Random;
 
 
-public class Task2 {
+public class task2 {
     public static int[] elementDifference(int[] arrayTwo) {
         Random random = new Random();
         int min = 30, max = 0;

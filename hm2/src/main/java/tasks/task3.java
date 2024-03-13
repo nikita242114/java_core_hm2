@@ -5,7 +5,7 @@ package tasks;
 
 import java.util.Random;
 
-public class Task3 {
+public class task3 {
     public static int[] zeroElement(int[] arrayThree) {
         Random random = new Random();
         boolean elZero = false;

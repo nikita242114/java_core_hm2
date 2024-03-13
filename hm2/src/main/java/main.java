@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-import static tasks.Task1.countEvens;
-import static tasks.Task2.elementDifference;
-import static tasks.Task3.zeroElement;
+import static tasks.task1.countEvens;
+import static tasks.task2.elementDifference;
+import static tasks.task3.zeroElement;
 
 public static void main(String[] args) {
     System.out.println("=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=");
