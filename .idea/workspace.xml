@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="effe8029-efb1-469d-8e50-6b1b38554bf6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hm2/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hm2/src/main/java/main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hm2/src/main/java/tasks/task1.java" afterDir="false" />
@@ -45,7 +55,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "liberica-full-21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/Учёба/javacore/Homework2"
+    "last_opened_file_path": "C:/Users/User/Desktop/Учёба/javacore/Homework3"
   }
 }]]></component>
   <component name="SharedIndexes">
